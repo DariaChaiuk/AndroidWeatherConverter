@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherConverter</string>
+    <string name="convert_from_input">Enter value to convert from</string>
+    <string-array name="degrees_types">
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
